@@ -1,0 +1,8 @@
+# SQL Databases 
+Structured Query Language databases are relational databases. We pre-define a schema of TABLES before we insert anything 
+
+# No-SQL Databases 
+NoSQL databases do not use SQL.
+There are many types of no-sql databases, including document, key-value, and graph stores. 
+        -No need to follow a predefine a schema 
+        -No "tables"

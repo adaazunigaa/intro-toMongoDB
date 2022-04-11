@@ -1,0 +1,8 @@
+*********BSON***********
+Binary JSON
+Binary structure encodes type and lenght information, which allows it to be 
+parsed much more quickly.
+
+"to save more space"
+
+-Has different data types
