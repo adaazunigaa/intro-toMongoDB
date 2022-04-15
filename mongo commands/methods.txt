@@ -1,0 +1,26 @@
+	MONGO COMMANDS AND METHODS
+
+    • use nameofthedb => to create/switch to the db
+	• show dbs
+	• show databases
+	• Insert a Single Document
+	    db.collection.insertOne() inserts a single document into a collection.
+	    db.collection.insertOne()
+        db.collection.insertMany()
+	• db.collection.find()
+
+
+
+    UPDATING
+  	  	db.collection.updateOne(<filter>, <update>, <options>)
+		db.collection.updateMany(<filter>, <update>, <options>)
+		db.collection.replaceOne(<filter>, <update>, <options>)
+
+
+	DELETE
+		db.collection.deleteMany()
+		db.collection.deleteOne()
+
+
+	QUERY
+	https://www.mongodb.com/docs/manual/tutorial/query-documents/
